@@ -1,0 +1,4 @@
+[root]
+name = "rtos-scheduler"
+version = "0.1.0"
+
